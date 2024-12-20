@@ -1,6 +1,10 @@
 dscsdc
 \cccccc
 ddddddd
+<<<<<<< HEAD
 
 ddddd
 ddddddd
+=======
+cccccccccccccccccccccccc
+>>>>>>> c585f02ed5c0c93148cb933836f87be2b3c52aca
